@@ -64,21 +64,22 @@
 
 <br>
 
-[![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondariwoola&theme=radical&show_icons=true&line_height=27&count_private=true" height="180em")](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&theme=radical&show_icons=true&line_height=27&count_private=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
+</a>
 
-[![Raymond's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" height="180em")](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 ![Raymond's github activity graph](https://activity-graph.herokuapp.com/graph?username=raymondariwoola&theme=dracula)
 
-<br>
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
 <details>
 [![Top contributors](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/top-contributors/d596e56d0ea8d57a14380e67bde54536_table.svg)](https://github.com/raymondariwoola/raymondariwoola/graphs/contributors)
 </details>
-<br>
+
 
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_badge.svg)](https://repography.com)
 <details>
@@ -87,15 +88,15 @@
 [![Trending topics](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_words.svg)](https://github.com/raymondariwoola/raymondariwoola/commits)
 [![Top contributors](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_users.svg)](https://github.com/raymondariwoola/raymondariwoola/graphs/contributors)
 </details>
----
+
 
 ## Images of the hour
 <details>
-<img src="https://images.unsplash.com/photo-1623479322729-28b25c16b011?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3MzA3OA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1552308995-2baac1ad5490?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzczMDc5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1513366976578-e01c21fb9c76?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzMwNzk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
+<img src="https://images.unsplash.com/photo-1629757509637-7c99379d6d26?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3MzM3Mg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1535551951406-a19828b0a76b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzczMzcy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzMzNzM&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
 </details>
 
 <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif"/>
 
-This data was last updated on Sunday, 24 April, 08:04 GMT+4
+This data was last updated on Sunday, 24 April, 08:09 GMT+4
