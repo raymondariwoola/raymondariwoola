@@ -64,39 +64,29 @@
 
 <br>
 
+<div align="center">
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&theme=radical&show_icons=true&line_height=27&count_private=true" />
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
 </a>
-
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
+</a>
+</div>
 
 ![Raymond's github activity graph](https://activity-graph.herokuapp.com/graph?username=raymondariwoola&theme=dracula)
 
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
-<details>
-[![Top contributors](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/top-contributors/d596e56d0ea8d57a14380e67bde54536_table.svg)](https://github.com/raymondariwoola/raymondariwoola/graphs/contributors)
-</details>
-
-
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_badge.svg)](https://repography.com)
-<details>
-[![Timeline graph](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_timeline.svg)](https://github.com/raymondariwoola/raymondariwoola/commits)
-[![Pull request status graph](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_prs.svg)](https://github.com/raymondariwoola/raymondariwoola/pulls)
-[![Trending topics](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_words.svg)](https://github.com/raymondariwoola/raymondariwoola/commits)
-[![Top contributors](https://images.repography.com/25008800/raymondariwoola/raymondariwoola/recent-activity/d596e56d0ea8d57a14380e67bde54536_users.svg)](https://github.com/raymondariwoola/raymondariwoola/graphs/contributors)
-</details>
-
 
 ## Images of the hour
 <details>
-<img src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3MzQ3MA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1616138276663-5041438a8476?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzczNDcx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1539683255143-73a6b838b106?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzM0NzE&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
+<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3NDUwNQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzc0NTA1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1542759564-7ccbb6ac450a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzQ1MDY&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
 </details>
 
 <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif"/>
 
-This data was last updated on Sunday, 24 April, 08:11 GMT+4
+This data was last updated on Sunday, 24 April, 08:28 GMT+4
