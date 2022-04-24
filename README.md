@@ -65,45 +65,21 @@
 <br>
 
 <div align="center">
-<<<<<<< HEAD
-=======
-<a href="#">
->>>>>>> 3f3e931044a0a2164202ab5fa8063174fb0ac78d
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&theme=radical&show_icons=true&line_height=27&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
-<<<<<<< HEAD
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
-=======
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
-</a>
->>>>>>> 3f3e931044a0a2164202ab5fa8063174fb0ac78d
 </div>
 
 ![Raymond's github activity graph](https://activity-graph.herokuapp.com/graph?username=raymondariwoola&theme=dracula)
 
 
-<<<<<<< HEAD
 ## Images of the hour
 <details>
-<img src="https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3NDg1NQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzc0ODU3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzQ4NTg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
-=======
-
-## Images of the hour
-<details>
-<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3NDUwNQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzc0NTA1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1542759564-7ccbb6ac450a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzQ1MDY&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
->>>>>>> 3f3e931044a0a2164202ab5fa8063174fb0ac78d
+<img src="https://images.unsplash.com/photo-1581089781785-603411fa81e5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3NDk3Mw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1522252234503-e356532cafd5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzc0OTcz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzQ5NzM&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
 </details>
 
 <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif"/>
 
-<<<<<<< HEAD
-This data was last updated on Sunday, 24 April, 08:34 GMT+4
-=======
-This data was last updated on Sunday, 24 April, 08:28 GMT+4
->>>>>>> 3f3e931044a0a2164202ab5fa8063174fb0ac78d
+This data was last updated on Sunday, 24 April, 08:36 GMT+4
