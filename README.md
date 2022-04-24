@@ -65,7 +65,7 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&theme=radical&show_icons=true&line_height=27&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
 </div>
