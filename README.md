@@ -65,6 +65,9 @@
 <br>
 
 ![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondariwoola&theme=radical&show_icons=true&line_height=27&count_private=true" height="180em")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymondariwoola)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Raymond's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" height="180em")
 
 <br>
