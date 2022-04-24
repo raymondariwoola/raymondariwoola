@@ -63,8 +63,8 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raymondariwoola&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)
 <br>
-<img width="480%" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27&count_private=true" />
-<img width="480%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
 <br>
 <img height="142px" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27" />
 </div>
@@ -74,11 +74,11 @@
 
 ## Images of the hour
 <details>
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3NTg0NQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzc1ODQ1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
-<img src="https://images.unsplash.com/photo-1451187863213-d1bcbaae3fa3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzU4NDU&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
+<img src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nfHx8fHx8MTY1MDc3NTk3MQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1535551951406-a19828b0a76b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8cHJvZ3JhbW1pbmd8fHx8fHwxNjUwNzc1OTcx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200"> 
+<img src="https://images.unsplash.com/photo-1497493292307-31c376b6e479?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=200&ixid=MnwxfDB8MXxyYW5kb218MHx8dGVjaHx8fHx8fDE2NTA3NzU5NzE&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=200">
 </details>
 
 <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif"/>
 
-This data was last updated on Sunday, 24 April, 08:50 GMT+4
+This data was last updated on Sunday, 24 April, 08:52 GMT+4
