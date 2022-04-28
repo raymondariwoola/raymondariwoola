@@ -18,7 +18,6 @@ async function imageFetch() {
     return image
 }
 
-
 /**
  * DATA is the object that contains all
  * the data to be provided to Mustache
