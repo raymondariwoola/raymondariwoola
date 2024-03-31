@@ -22,7 +22,6 @@
 | Data Science | German |
 | Gaming|   |
 | Robotics |  |
-| Programming|   |
 
 ---
 
