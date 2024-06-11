@@ -89,4 +89,4 @@
 -->
 <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif"/>
 
-This data was last updated on Tuesday, 11 June, 03:01 GMT+4
+This data was last updated on Tuesday, 11 June, 04:05 GMT+4
