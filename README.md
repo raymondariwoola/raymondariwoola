@@ -70,8 +70,6 @@
 <img height="235px" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondariwoola&theme=radical&show_icons=true&line_height=27" />
 </div>
 
-![Raymond's github activity graph](https://activity-graph.herokuapp.com/graph?username=raymondariwoola&theme=dracula)
-
 
 ## Images of the hour
 <details>
