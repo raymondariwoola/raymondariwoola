@@ -71,12 +71,7 @@
 </div>
 
 
-## Images of the hour
-<details>
-<img src="https://source.unsplash.com/random/200x200/?coding"> 
-<img src="https://source.unsplash.com/random/200x200/?programming"> 
-<img src="https://source.unsplash.com/random/200x200/?tech">
-</details>
+
 
 <!--
 <details>
