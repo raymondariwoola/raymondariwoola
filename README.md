@@ -19,7 +19,7 @@
 | --------- | --------- |
 | Cloud Computing | English |
 | Programming| Yoruba  |
-| Data Science | German |
+| Data Science |
 | Gaming|   |
 | Robotics |  |
 | Programming|   |
