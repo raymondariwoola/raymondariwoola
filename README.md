@@ -63,11 +63,7 @@
 <div align="center">
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=raymondariwoola&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)
-<br>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=33&count_private=true" />
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raymondariwoola&layout=compact&theme=radical&show_icons=true&line_height=27&langs_count=8&count_private=true" />
-<br>
-<img height="235px" src="https://github-readme-stats.vercel.app/api/wakatime?username=raymondariwoola&theme=radical&show_icons=true&line_height=27" />
+
 </div>
 
 
@@ -82,4 +78,3 @@
 -->
 <img src="https://media.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif"/>
 
-This data was last updated on Monday, 3 March, 12:05 GMT+4
